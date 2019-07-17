@@ -38,11 +38,11 @@ sudo python3 webblocker.py
 
 Afterwards a window should popup. This is the program's GUI.
 
-![alt text](https://github.com/NamanhTran/Productive-Blocker/tree/master/images/gui.png "GUI Example")
+![alt text](https://raw.githubusercontent.com/NamanhTran/Productive-Blocker/master/images/gui.png "GUI Example")
 
 Click the sites the user wishes to block and enter how long you would like to block these sites for in minutes.
 
-![alt text](https://github.com/NamanhTran/Productive-Blocker/tree/master/images/gui1.png "GUI Example2")
+![alt text](https://raw.githubusercontent.com/NamanhTran/Productive-Blocker/master/images/gui1.png "GUI Example2")
 
 Click start and done!
 
